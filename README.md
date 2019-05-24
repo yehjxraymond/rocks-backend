@@ -1,2 +1,3 @@
-# rocks-backend
-Learn to create an API by following along the examples
+# Rocks (Backend)
+
+Learn to create an API!

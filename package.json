@@ -1,0 +1,22 @@
+{
+  "name": "rocks-backend",
+  "version": "1.0.0",
+  "description": "Service to store rocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehjxraymond/rocks-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yehjxraymond/rocks-backend/issues"
+  },
+  "homepage": "https://github.com/yehjxraymond/rocks-backend#readme",
+  "dependencies": {
+    "fastify": "^2.4.1"
+  }
+}
