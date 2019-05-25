@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/yehjxraymond/rocks-backend#readme",
   "dependencies": {
-    "fastify": "^2.4.1"
+    "axios": "^0.18.0",
+    "fastify": "^2.4.1",
+    "lokijs": "^1.5.6"
   }
 }

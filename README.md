@@ -1,3 +1,3 @@
 # Rocks (Backend)
 
-Learn to create an API!
+Code for [Developing Backend Application](https://geek.sg/static/slides/geekout-backend/index.html)
